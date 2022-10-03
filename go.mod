@@ -21,7 +21,7 @@ require (
 	github.com/nicksnyder/go-i18n/v2 v2.2.0
 	github.com/pkg/errors v0.9.1
 	github.com/pmezard/go-difflib v1.0.0
-	github.com/rogpeppe/go-internal v1.8.1
+	github.com/rogpeppe/go-internal v1.9.0
 	github.com/rs/zerolog v1.26.1
 	github.com/rubenv/sql-migrate v1.1.1
 	github.com/spf13/cobra v1.4.0
